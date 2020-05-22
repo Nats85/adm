@@ -4,10 +4,11 @@
     <div class="icon"><img src="{{ site.baseurl }}/styleguide/branding/png/styleguide-64x64.png"></div>
     <div class="title">{{ site.sg_title }}</div>
   </a>
+
+  <a href="{{ site.baseurl }}/http://www.limni.net"{% if page.url == '/' %} class="active"{% endif %}>Get Started</a></li>
   <ul>
     <li><a href="{{ site.baseurl }}/index.html"{% if page.url == '/' %} class="active"{% endif %}>Get Started</a></li>
   </ul>
-  <a href="{{ site.baseurl }}/http://www.limni.net"{% if page.url == '/' %} class="active"{% endif %}>Get Started</a></li>
 
   {% assign instalacion = site.docs | where: 'type', 'instalacion' | sort: 'url' %}
   <div class="group">

@@ -1,6 +1,6 @@
 ---
 title: Conserver
-info: 🕐 Ultima actualización: Abril 03 de 2020
+info:
 ---
 
 

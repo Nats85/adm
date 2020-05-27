@@ -1,8 +1,8 @@
 ---
 title: Conserver
-info:
+info: 🕐 Ultima actualización: Abril 03 de 2020
 ---
-🕐 Ultima actualización: Abril 03 de 2020
+
 
 **Aranda.Conserver.Installer** el cual instala el servicio del Conserver. Se deberá instalar uno por cada segmento de red. A continuación, el paso a paso de la instalación del Conserver. Al hacer clic sobre el instalador, se visualiza la siguiente advertencia.
 

@@ -1,6 +1,7 @@
 ---
 title: Creación semilla
 info:
+---
 ###### 🕐 Ultima actualización Abril 02 de 2020
 ---
 

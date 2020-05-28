@@ -2,9 +2,7 @@
 title: Instalación manual
 info:
 ---
-🕐 Ultima actualización: Abril 02 de 2020
-
-
+###### 🕐 Ultima actualización Abril 02 de 2020
 
 
 # Agente
@@ -47,6 +45,3 @@ A continuación, inicia la instalación del agente.
 Una vez finalizada la instalación del agente, hacer clic en Finalizar.
 
 ![agen_8]({{ site.baseurl }}/styleguide/images/agen_8.png)
-
-
-

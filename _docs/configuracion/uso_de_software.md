@@ -4,6 +4,10 @@ title: Uso de Software
 ###### 🕐 Ultima actualización Abril 02 de 2020
 
 
+
+
+
+
 Este módulo le permite visualizar diferentes datos del uso del software por parte de los usuarios, permitiendo verificar fechas en la que se uso el software, la cantidad de tiempo de uso que se usó el software, la versión del software utilizada, equipo que utilizo el software y usuario que ingreso en la máquina. Estos datos pueden ser exportados a Excel.
 
 Este módulo tiene dos accesos:

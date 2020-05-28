@@ -5,6 +5,10 @@ info:
 ###### 🕐 Ultima actualización Abril 02 de 2020
 
 
+
+
+
+
 ADM cuenta en total con cuatro instaladores, explicados a continuación:  
 
 ![consola_1][1]  ![agente_1][2] ![conserver_1][3]  ![visor_1][4]

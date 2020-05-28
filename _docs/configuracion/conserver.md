@@ -2,7 +2,8 @@
 title: Conserver
 info:
 ---
-🕐 Ultima actualización: Abril 03 de 2020
+###### 🕐 Ultima actualización Abril 02 de 2020
+
 
 En la consola Aranda Device Management, ingresar a **Conﬁguración > ADM > Comunicaciones**, se visualizará el árbol de comunicaciones donde está el nodo del Repserver, al hacer clic sobre el nodo se despliegan todos los Conserver que se están comunicando, La primera vez que se visualiza el Conserver se debe realizar la conﬁguración de los campos puerto Wake on LAN y la ruta almacenamiento de archivos.
 

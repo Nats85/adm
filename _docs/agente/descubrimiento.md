@@ -2,9 +2,7 @@
 title: Descubrimiento
 info:
 ---
-🕐 Ultima actualización: Abril 02 de 2020
-
-
+###### 🕐 Ultima actualización Abril 02 de 2020
 
 
 El descubrimiento de dispositivos se realiza solo la primera vez que desea instalar el agente a un dispositivo, este se puede realizar por diferentes medios (IP, DNS, ICMP, NetBIOS SMB, WMI, Dominio). A continuación, el paso a paso de la configuración del descubrimiento de dispositivos.

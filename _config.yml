@@ -22,7 +22,7 @@ destination: _site          ## Output folder
 ## Style Guide Shell Settings
 
 ## These settings are used in when generating the style guide shell
-sg_title: Aranda Device Management Manual de Uso
+sg_title: Aranda Device Management Manual de uso
 sg_version: 3.0
 sg_keywords: aranda, documentation, playbook, design, code
 sg_description: Hacemos tu gestión de IT mucho más fácil

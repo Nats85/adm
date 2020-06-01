@@ -13,7 +13,7 @@ info:
 
 Con esta conﬁguración va a poder acceder a la consola.
 
-# Instalación manual
+### Instalación manual
 
 El Agente ADM Aranda.Agent.9, mediante este se instala los servicios requeridos para el Agente en Windows. Para realizar la instalación de manera des-atendida y automática del agente, la consola Web de ADM cuenta con la funcionalidad de distribución de agente.
 

@@ -2,8 +2,8 @@
 title: Roles y Permisos
 info:
 ---
-###### 🕐 Ultima actualización Abril 02 de 2020
-
+## 🕐 Ultima actualización Abril 02 de 2020
+<hr>
 
 Un rol es un conjunto de permisos que puede tener un usuario sobre Aranda Device Management, es posible adicionar varios roles a un usuario. Para crear un rol, ingrese a la opción **Configuración > Generales > Roles y permisos** hacer clic en Nuevo; se visualiza un formulario para completar el nombre de rol y descripción.
 

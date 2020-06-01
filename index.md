@@ -11,11 +11,11 @@ Con ADM es posible distribuir y mantener actualizado el software para evitar rie
 
 El paquete ADM está conformado por cinco herramientas a saber: *Aranda Asset Management* para inventario de activos, *Aranda Software Delivery* para distribución de software, *Aranda Software Metrix* para control de licenciamiento y uso de software, *Aranda Power Management* para configuraciones de ahorro de energía, y *Aranda Patch Management* para distribución de actualizaciones.
 
-### Funcionalidades de ADM
+# Funcionalidades de ADM
 
 La disponibilidad de las siguientes funcionalidades depende del licenciamiento específico de cada cliente:
 
-# Inventario de activos
+### Inventario de activos
 
 Esta funcionalidad se especializa en la gestión integral de inventarios actualizados de hardware y software.
 Permite tomar el control remoto de sus estaciones de trabajo minimizando los tiempos de desplazamiento de los especialistas de soporte.

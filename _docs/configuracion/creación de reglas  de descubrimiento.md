@@ -1,7 +1,7 @@
 ---
 title: Creacion de Reglas de Descubrimiento
 ---
-###### 🕐 Ultima actualización Abril 02 de 2020
+## 🕐 Ultima actualización Abril 02 de 2020
 <hr>
 
 

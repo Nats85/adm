@@ -7,13 +7,9 @@ info:
 
 
 
+La instalación de ADM consta de cuatro partes;
 
-
-ADM cuenta en total con cuatro instaladores, explicados a continuación:  
-
-![consola_1][1]  ![agente_1][2] ![conserver_1][3]  ![visor_1][4]
-
- [1]: ({{ site.baseurl }}/styleguide/images/consola_1.png)
- [2]: ({{ site.baseurl }}/styleguide/images/agente_1.png)
- [3]: ({{ site.baseurl }}/styleguide/conserver_1.png)
- [4]: ({{ site.baseurl }}/styleguide/images/visor_1.png)
+  > 1. [Instalación de la Consola](https://nats85.github.io/adm/docs/instalacion/consola.html)
+	> 2. [Instalación del Conserver](https://nats85.github.io/adm/docs/instalacion/conserver.html)
+	> 3. [Instalación del Agente](https://nats85.github.io/adm/docs/instalacion/agente.html)
+	> 4. [Instalación del Visor de Soporte Remoto](https://nats85.github.io/adm/docs/instalacion/visor_remoto.html)

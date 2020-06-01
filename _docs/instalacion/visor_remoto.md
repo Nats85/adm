@@ -1,5 +1,5 @@
 ---
-title: Visor de Reporte Remoto
+title: Instalación del visor de soporte remoto
 info:
 ---
 ## 🕐 Ultima actualización Abril 02 de 2020

@@ -1,0 +1,43 @@
+<a href="javascript:void(0)" class="sg_sidebar_button"><i class="icon" data-icon="menu"></i></a>
+<div class="sg_sidebar">
+  <a href="{{ site.baseurl }}/index.html" class="logo">
+    <div class="icon"><img src="{{ site.baseurl }}/styleguide/branding/png/styleguide-64x64.png"></div>
+    <div class="title">{{ site.sg_title }}</div>
+  </a>
+
+  <ul>
+    <li><a href="{{ site.baseurl }}/index.html"{% if page.url == '/' %} class="active"{% endif %}>Get Started</a></li>
+  </ul>
+
+  
+
+  {% assign instalacion = site.docs | where: 'type', 'instalacion' | sort: 'url' %}
+  <div class="group">
+    <div class="group_title">Instalacion</div>
+    <ul>{% for doc in instalacion %}
+      <li><a href="{{ site.baseurl }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+    {% endfor %}</ul>
+  </div>
+
+  {% assign configuracion = site.docs | where: 'type', 'configuracion' | sort: 'url' %}
+  <div class="group">
+    <div class="group_title">Configuracion</div>
+    <ul>{% for doc in configuracion %}
+      <li><a href="{{ site.baseurl }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+    {% endfor %}</ul>
+  </div>
+
+  {% assign agente = site.docs | where: 'type', 'agente' | sort: 'url' %}
+  <div class="group">
+    <div class="group_title">Agente</div>
+    <ul>{% for doc in agente %}
+      <li><a href="{{ site.baseurl }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+    {% endfor %}</ul>
+  </div>
+
+
+  {% assign samples = site.docs | where: 'type', 'sample' | sort: 'url' %}
+  <ul>{% for doc in samples %}
+    <li><a href="{{ site.baseurl }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+  {% endfor %}</ul>
+</div>

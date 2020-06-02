@@ -2,11 +2,8 @@
 title: Cargar licencias
 info:
 ---
-## 🕐 Ultima actualización Abril 02 de 2020
-<hr>
-
-
-
+##### 🕐 Ultima actualización Abril 02 de 2020
+---
 
 
 Todos los productos de Aranda Software requieren una licencia para su funcionamiento, por tal razón la primera vez que ingrese a **Aranda Device Managements** se solicitará la licencia correspondiente.

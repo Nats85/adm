@@ -2,11 +2,8 @@
 title: Distribución de Agente
 info:
 ---
-## 🕐 Ultima actualización Abril 02 de 2020
-<hr>
-
-
-
+##### 🕐 Ultima actualización Abril 02 de 2020
+---
 
 
 Para crear el proyecto de distribución de agente, hacer clic en Nuevo y seleccionar Agente.

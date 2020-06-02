@@ -2,11 +2,8 @@
 title: Resolución de conﬂictos
 info:
 ---
-## 🕐 Ultima actualización Abril 02 de 2020
-<hr>
-
-
-
+##### 🕐 Ultima actualización Abril 02 de 2020
+---
 
 
 Desde la versión 9.5 la consola de administración de ADM permite visualizar y gestionar fácilmente los potenciales problemas de identificación que ocurren a los dispositivos. Estos problemas se conocen como conflictos y son mostrados en la hoja de vida de los dispositivos para que el usuario tome una decisión sobre cada uno de ellos. De esta manera se evitan más fácilmente inconsistencias como la suplantación de máquinas y la duplicidad de registros. La suplantación ocurre cuando muchos dispositivos se ven como uno solo en la consola, como efecto de clonación de equipos que ya tienen instalado el agente, principalmente. La duplicidad ocurre cuando una máquina tiene mas de un registro asociado en la consola, normalmente es debido al ingreso de máquinas que fueron formateadas después de tener agente instalado.

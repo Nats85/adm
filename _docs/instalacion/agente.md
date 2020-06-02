@@ -3,9 +3,8 @@ title: Agente
 info:
 ---
 ##### 🕐 Ultima actualización Abril 02 de 2020
----
-
-
+<br>
+<br>
 Para realizar la instalación del **Agente** de ADM por línea de comando se puede ejecutar la siguiente instrucción:
 
 

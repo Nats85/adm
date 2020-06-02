@@ -2,11 +2,8 @@
 title: Perfil de Agente
 info:
 ---
-## 🕐 Ultima actualización Abril 02 de 2020
-<hr>
-
-
-
+##### 🕐 Ultima actualización Abril 02 de 2020
+---
 
 
 El perﬁl es utilizado al momento de la instalación del agente; las funcionalidades principales son las tareas que realizará dependiendo de la parametrización, por ejemplo: Programación de inventarios, sincronización de datos, inventarios, licenciamiento, distribución, actualizaciones, energía y control remoto.

@@ -2,11 +2,8 @@
 title: Catalogo de Aplicaciones
 info:
 ---
-## 🕐 Ultima actualización Abril 02 de 2020
-<hr>
-
-
-
+##### 🕐 Ultima actualización Abril 02 de 2020
+---
 
 
 Por medio de este módulo se accede al catálogo de aplicaciones, este es utilizado como repositorio del módulo de actualizaciones, la funcionalidad principal es descargar todos los parches y mantenerlos en un contenedor localizado en los servidores de comunicaciones para que de esta manera se puedan utilizar en el módulo de actualizaciones.

@@ -6,7 +6,9 @@ info:
 ---
 
 
-**(RS Viewer)** es un aplicativo que permite tomar control remoto de las máquinas gestionadas, y debe estar instalado en la LAN para que pueda acceder a ellas. El Visor debe tener también acceso al servidor de aplicaciones para poder autorizar y coordinar la sesión. A continuación, se describe el paso a paso para realizar la instalación del componente Aranda.Device Management.Utils.Installer.exe. Haga clic sobre el instalador.
+###(RS Viewer)
+
+Es un aplicativo que permite tomar control remoto de las máquinas gestionadas, y debe estar instalado en la LAN para que pueda acceder a ellas. El Visor debe tener también acceso al servidor de aplicaciones para poder autorizar y coordinar la sesión. A continuación, se describe el paso a paso para realizar la instalación del componente Aranda.Device Management.Utils.Installer.exe. Haga clic sobre el instalador.
 
 A continuación, se describe el paso a paso para realizar la instalación del componente Aranda.Device Management.Utils.Installer.exe. Haga clic sobre el instalador.
 

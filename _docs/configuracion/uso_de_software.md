@@ -35,7 +35,7 @@ Este módulo adicional le permite generar una gráfica que puede ser exportada c
 ![uso_soft_3]({{ site.baseurl }}/styleguide/images/uso_soft_3.png)
 
 
-# Detalles de uso de software
+### Detalles de uso de software
 
 En esta pantalla encontrará información detallada del uso de software.
 

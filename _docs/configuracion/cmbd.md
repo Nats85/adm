@@ -2,11 +2,8 @@
 title: CMBD
 info:
 ---
-## 🕐 Ultima actualización Abril 02 de 2020
-<hr>
-
-
-
+##### 🕐 Ultima actualización Abril 02 de 2020
+---
 
 
 En esta pestaña se almacena la información para conectarse al servidor de Aranda CMDB y así poder gestionar los activos de la organización. Teniendo en cuenta que el CMDB permite almacenar toda la información de los elementos de configuración de la infraestructura en su empresa (Hardware, Software) en un único repositorio de datos, lo cual se verá reflejado en reducción de costos, mayor eficiencia y mejora en los niveles de servicio respecto a sus recursos.

@@ -3,8 +3,8 @@ title: Instalación manual
 info:
 ---
 ##### 🕐 Ultima actualización Abril 02 de 2020
-
-
+<br>
+<br>
 ### Agente
 
 Con esta conﬁguración va a poder acceder a la consola.

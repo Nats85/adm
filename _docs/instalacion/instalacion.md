@@ -3,9 +3,10 @@ title: Instalación
 info:
 ---
 ##### 🕐 Ultima actualización Abril 02 de 2020
+---
 
 
-# La instalación de ADM consta de cuatro partes:
+### La instalación de ADM consta de cuatro partes:
 
 ## 1. [Instalación de la Consola](https://nats85.github.io/adm/docs/instalacion/consola.html)
 ## 2. [Instalación del Conserver](https://nats85.github.io/adm/docs/instalacion/conserver.html)

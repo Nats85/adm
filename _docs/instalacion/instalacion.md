@@ -3,7 +3,6 @@ title: Instalación
 info:
 ---
 ##### 🕐 Ultima actualización Abril 02 de 2020
----
 
 
 # La instalación de ADM consta de cuatro partes:
